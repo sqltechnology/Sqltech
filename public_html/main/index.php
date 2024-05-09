@@ -1,1 +1,11 @@
-<div>Hello World</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sql-Technologies</title>
+</head>
+<body>
+    
+</body>
+</html>
