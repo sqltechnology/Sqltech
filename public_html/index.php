@@ -1,1 +1,1 @@
-header("Location: http://sql-tec.ru/main/");
+<? header("Location: http://sql-tec.ru/main/"); ?>
