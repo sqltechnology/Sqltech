@@ -1,0 +1,1 @@
+<? header("http://sql-tec.ru/main/") ?>
