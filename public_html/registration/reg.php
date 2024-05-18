@@ -37,7 +37,7 @@
       </label>
     </div>
     <button class="btn btn-primary w-100 py-2" type="submit">Войти</button>
-    <a class="btn btn-outline-info mt-3">Регистрация</a>
+    <a href="./new"class="btn btn-outline-info mt-3">Регистрация</a>
     <p class="mt-5 mb-3 text-body-secondary">© 2017–2024</p>
   </form>
 </main>
